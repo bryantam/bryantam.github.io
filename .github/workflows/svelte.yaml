@@ -1,4 +1,4 @@
-# Workflow for building and deploying a Svelte website to Gothub Pages
+# Workflow for building and deploying a Svelte website to Github Pages
 #
 # Obtained from https://github.com/actions/starter-workflows/blob/main/pages/nextjs.yml
 # And https://gist.github.com/CarlosGDCJ/747032bea4f8506faeca1cffc926abaf
