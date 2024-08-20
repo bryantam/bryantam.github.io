@@ -69,6 +69,12 @@ export const prerender = true
 A github action is specified in [.github/workflows/svelte.yaml](.github/workflows/svelte.yaml). 
 Copy it to yours if needed.
 
+## Add static files
+
+Add an empty file [static/.nojekyll](static/.nojekyll)
+
+Copy existing CNAME file to [static](static)
+
 
 # Svelte Stuff
 
