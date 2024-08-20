@@ -64,6 +64,11 @@ Also, add a new file `src/routes/+layout.js` with content:
 export const prerender = true
 ```
 
+## Github action
+
+A github action is specified in [.github/workflows/svelte.yaml](.github/workflows/svelte.yaml). 
+Copy it to yours if needed.
+
 
 # Svelte Stuff
 
